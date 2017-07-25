@@ -7,3 +7,4 @@ Python Assignment work
 2. dogsAge.py (Dogs ages)
 3. oddEven.py (Odd or Even ???)
 4. askUser.py (Ask users their name,fav.colour and fav.food)
+5. temperature.py (F to C conversion)
