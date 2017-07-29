@@ -12,3 +12,4 @@ Python Assignment work
 7. maxmin.py (maximum and minimum)
 8. guessingGame.py (Random number guessing game)
 9. quadratic.py (Quadratic formula)
+10. prime.py (Prime numbers upto 200)
