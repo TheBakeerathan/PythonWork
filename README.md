@@ -11,3 +11,4 @@ Python Assignment work
 6. tempChart.py (C to F Chart)
 7. maxmin.py (maximum and minimum)
 8. guessingGame.py (Random number guessing game)
+9. quadratic.py (Quadratic formula)
