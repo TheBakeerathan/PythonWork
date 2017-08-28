@@ -71,7 +71,7 @@ Display it with the extra emotional statement right away.
 Finally, ask them if they want to leave or continue again.
 - **Outcome:**
 Display one's name, favorite color, and food.
-### Fahrenheit to Celsius *(temperature.py)*
+### Fahrenheit to Celsius Conversion *(temperature.py)*
 - [x] Assignment
 - [ ] Class Activity
 - **Objective:**
