@@ -16,7 +16,7 @@ Python Assignment work
 
 
 # PythonWork
-This repo contains various class activities and assignments, coded in Python, which is for Software Quality Assurance bootcamp training program at [Per Scholas](https://perscholas.org/).
+This repo contains various class activities and assignments, which are coded in Python, are for Software Quality Assurance bootcamp training program at [Per Scholas](https://perscholas.org/).
 ### Average Activity *(avgActi.py)*
 - [ ] Assignment
 - [x] Class Activity
@@ -49,4 +49,6 @@ Ask user dog’s age in human-years.
 Convert human-years into dog-years using the ratio of 7:1 (7Human-years=1Dog-year). 
 - **Outcome:**
 Display how old the dog is in dog-years.
+
+
 
