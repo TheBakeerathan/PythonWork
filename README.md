@@ -113,7 +113,7 @@ Use the formula (ans=a*(x*x)+(b*x)+c) to get the solution.
 - **Outcome:**
 Display the quadratic formula with entered values.
 Display the value/solution for the quadratic formula.
-### Prime numbers 0 to 200 *(prime.py)*
+### Prime Numbers 0 to 200 *(prime.py)*
 - [x] Assignment
 - [ ] Class Activity
 - **Objective:**
