@@ -39,7 +39,7 @@ Ask the user what temperature it is.
 Tell the user that temperature is warm, chilly or hot based on temperature range.
 - **Outcome:**
 Display warm/chilly/hot.
-### Dog's Age *(dogsAge.py)*
+### Dogs' Age *(dogsAge.py)*
 - [x] Assignment
 - [ ] Class Activity
 - **Objective:**
@@ -71,7 +71,7 @@ Display it with the extra emotional statement right away.
 Finally, ask them if they want to leave or continue again.
 - **Outcome:**
 Display one's name, favorite color, and food.
-### Fahrenheit to Celsius Conversion *(temperature.py)*
+### Fahrenheit to Celsius *(temperature.py)*
 - [x] Assignment
 - [ ] Class Activity
 - **Objective:**
@@ -83,6 +83,16 @@ Display that temperature in Celsius
 Ask the user to continue or leave.
 - **Outcome:**
 Display the temperature in Fahrenheit and equivalent Celsius temperature.
+### Celsius to Fahrenheit Conversion Chart *(tempChart.py)*
+- [x] Assignment
+- [ ] Class Activity
+- **Objective:**
+To create a temperature conversion chart from Celsius to Fahrenheit.
+- **Concept:**
+Convert temperature celsius to Fahrenheit using the formula(f=((180*c)/100)+32).
+Display that temperature in Fahrenheit like a conversion table up to 100-degree Celsius.
+
+
 
 
 
