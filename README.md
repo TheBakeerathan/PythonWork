@@ -1,21 +1,4 @@
 # PythonWork
-Python Class work
-1. avgActi.py
-
-Python Assignment work
-1. acti.py (About temperature)
-2. dogsAge.py (Dogs ages)
-3. oddEven.py (Odd or Even ???)
-4. askUser.py (Ask users their name,fav.colour and fav.food)
-5. temperature.py (F to C conversion)
-6. tempChart.py (C to F Chart)
-7. maxmin.py (maximum and minimum)
-8. guessingGame.py (Random number guessing game)
-9. quadratic.py (Quadratic formula)
-10. prime.py (Prime numbers upto 200)
-
-
-# PythonWork
 This repo contains various class activities and assignments, which are coded in Python, are for Software Quality Assurance boot camp training program at [Per Scholas](https://perscholas.org/).
 ### Average Activity *(avgActi.py)*
 - [ ] Assignment
@@ -130,11 +113,13 @@ Use the formula (ans=a*(x*x)+(b*x)+c) to get the solution.
 - **Outcome:**
 Display the quadratic formula with entered values.
 Display the value/solution for the quadratic formula.
-
-
-
-
-
-
-
-
+### Prime numbers 0 to 200 *(prime.py)*
+- [x] Assignment
+- [ ] Class Activity
+- **Objective:**
+To display the numbers from 0 to 200 and if they are prime numbers or not.
+- **Concept:**
+Generate number using the loop.
+Count the number of factors each number has by dividing the numbers by another loop.
+- **Outcome:**
+Display the numbers and if they are prime or not.
