@@ -60,7 +60,7 @@ Divide the number by two.
 Check the remainder equals to zero.
 - **Outcome:**
 Display the number is odd/even.
-### User's favourites *(askUser.py)*
+### User's Favourites *(askUser.py)*
 - [x] Assignment
 - [ ] Class Activity
 - **Objective:**
@@ -93,7 +93,7 @@ Convert temperature celsius to Fahrenheit using the formula(f=((180*c)/100)+32).
 Display that temperature in Fahrenheit like a conversion table up to 100-degree Celsius.
 - **Outcome:**
 Display the Celcius to Fahrenheit conversion table.
-### Maximum and minimum *(maxmin.py)*
+### Maximum and Minimum *(maxmin.py)*
 - [x] Assignment
 - [ ] Class Activity
 - **Objective:**
