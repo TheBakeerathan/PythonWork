@@ -91,6 +91,21 @@ To create a temperature conversion chart from Celsius to Fahrenheit.
 - **Concept:**
 Convert temperature celsius to Fahrenheit using the formula(f=((180*c)/100)+32).
 Display that temperature in Fahrenheit like a conversion table up to 100-degree Celsius.
+- **Outcome:**
+Display the Celcius to Fahrenheit conversion table.
+### Maximum and minimum *(maxmin.py)*
+- [x] Assignment
+- [ ] Class Activity
+- **Objective:**
+To find out maximum and minimum numbers from a group of numbers.
+- **Concept:**
+Ask the user how many number(s) need(s) to be inputted.
+Ask user for the numbers one by one.
+Put them in an array.
+Find out maximum and minimum numbers without using any predefined python functions.
+- **Outcome:**
+Display maximum and minimum numbers.
+
 
 
 
