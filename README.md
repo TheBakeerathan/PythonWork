@@ -105,6 +105,31 @@ Put them in an array.
 Find out maximum and minimum numbers without using any predefined python functions.
 - **Outcome:**
 Display maximum and minimum numbers.
+### Random Number Guessing Game  *(guessingGame.py)*
+- [x] Assignment
+- [ ] Class Activity
+- **Objective:**
+To find out maximum and minimum numbers from a group of numbers.
+- **Concept:**
+Display the user an asterisk (which is a mask for the number).
+Ask the user to guess it.
+Give the user three chances to guess the number.
+Depends on the guess, Show the user a hint how close he/she is for the number.
+If the user guesses the number correctly, Congratulate them.
+If not, notify them that they lost the game.
+- **Outcome:**
+A number guessing game with three attempts and hints.
+### Quadratic Formula *(quadratic.py)*
+- [x] Assignment
+- [ ] Class Activity
+- **Objective:**
+To find out the solution for quadratic formula.
+- **Concept:**
+Ask the user for the values a,b,c, and x.
+Use the formula (ans=a*(x*x)+(b*x)+c) to get the solution.
+- **Outcome:**
+Display the quadratic formula with entered values.
+Display the value/solution for the quadratic formula.
 
 
 
